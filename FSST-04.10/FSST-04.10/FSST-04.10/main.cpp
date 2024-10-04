@@ -1,27 +1,27 @@
 #include <iostream>
 #include <stdlib.h>
-#include <time.h>
 using namespace std;
 
-#define MAX_LOTTOZAHLEN 6
-#define MAX_BEREICH 45
+int a, b, c;
 
-int lottozahlen[MAX_LOTTOZAHLEN];
+bool durch7(int a, int b, int c) {
+	if (((a + b + c) % 7) == 0) {
+		return true;
+	} if (((a + b + c) % 7) == 1) {
+		return false;
+	}
+	return false;
+}
 
 int main(void) {
-	srand(time(0));
+	cout << "Drei Zahlen: ";
+	cin >> a;
+	cin >> b;
+	cin >> c;
 
-	for (int i = 0; i < MAX_LOTTOZAHLEN; i++) {
-		lottozahlen[i] = rand() % 45 + 1;
-
-		for (int j = 0; j < MAX_BEREICH; j++) {
-			if (lottozahlen[i] == j) {
-				lottozahlen[i] = rand() % 45 + 1;
-			}
-		}
+	if (durch7(a, b, c) == true) {
+		cout << endl << "Sie ist durch 7 teilbar";
+	} if (durch7(a, b, c) == false) {
+		cout << endl << "Sie ist nicht durch 7 teilbar";
 	}
-	for (int i = 0; i < MAX_LOTTOZAHLEN; i++) {
-		cout << lottozahlen[i] << "  ";
-	}
-	return 1;
 }
