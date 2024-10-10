@@ -1,3 +1,4 @@
 ﻿  main.cpp
-C:\Users\christoph.schwaighof\source\repos\FSST-03.10\FSST-03.10\main.cpp(20,12): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
-  FSST-03.10.vcxproj -> C:\Users\christoph.schwaighof\source\repos\FSST-03.10\x64\Debug\FSST-03.10.exe
+C:\Users\christoph.schwaighof\source\repos\HTL-Bulme-2AHEL\2024-25_FSST\FSST-03.10\FSST-03.10\FSST-03.10\main.cpp(21,12): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+C:\Users\christoph.schwaighof\source\repos\HTL-Bulme-2AHEL\2024-25_FSST\FSST-03.10\FSST-03.10\FSST-03.10\main.cpp(46,7): warning C4551: Dem Funktionsaufruf fehlt die Argumentliste
+  FSST-03.10.vcxproj -> C:\Users\christoph.schwaighof\source\repos\HTL-Bulme-2AHEL\2024-25_FSST\FSST-03.10\FSST-03.10\x64\Debug\FSST-03.10.exe

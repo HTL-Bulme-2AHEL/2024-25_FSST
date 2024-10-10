@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\christoph.schwaighof\\source\\repos\\FSST-03.10\\",
+  "WorkspaceRootPath": "C:\\Users\\christoph.schwaighof\\source\\repos\\HTL-Bulme-2AHEL\\2024-25_FSST\\FSST-03.10\\FSST-03.10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7BB1E9F-4EDF-4004-9770-716D31F200E9}|FSST-03.10\\FSST-03.10.vcxproj|C:\\Users\\christoph.schwaighof\\source\\repos\\FSST-03.10\\FSST-03.10\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D7BB1E9F-4EDF-4004-9770-716D31F200E9}|FSST-03.10\\FSST-03.10.vcxproj|C:\\Users\\christoph.schwaighof\\source\\repos\\HTL-Bulme-2AHEL\\2024-25_FSST\\FSST-03.10\\FSST-03.10\\FSST-03.10\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D7BB1E9F-4EDF-4004-9770-716D31F200E9}|FSST-03.10\\FSST-03.10.vcxproj|solutionrelative:FSST-03.10\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\christoph.schwaighof\\source\\repos\\FSST-03.10\\FSST-03.10\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\christoph.schwaighof\\source\\repos\\HTL-Bulme-2AHEL\\2024-25_FSST\\FSST-03.10\\FSST-03.10\\FSST-03.10\\main.cpp",
               "RelativeDocumentMoniker": "FSST-03.10\\main.cpp",
-              "ToolTip": "C:\\Users\\christoph.schwaighof\\source\\repos\\FSST-03.10\\FSST-03.10\\main.cpp",
+              "ToolTip": "C:\\Users\\christoph.schwaighof\\source\\repos\\HTL-Bulme-2AHEL\\2024-25_FSST\\FSST-03.10\\FSST-03.10\\FSST-03.10\\main.cpp",
               "RelativeToolTip": "FSST-03.10\\main.cpp",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAAAAAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEgAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-03T12:42:24.493Z",
               "EditorCaption": ""

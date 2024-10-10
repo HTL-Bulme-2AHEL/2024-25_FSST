@@ -5,6 +5,7 @@
 #include <string>
 #include <algorithm>
 #include <stdbool.h>
+#include <conio.h>
 using namespace std;
 
 #define MAX_ZUFALL 2000
@@ -38,9 +39,12 @@ int main(void) {
 				sorted_zufallszahlen[j + 1] = tmp;
 			}
 		}
-	}d
+	}
+
+	char exit;
 
 	do {
+
 		cout << "Befehl: ";
 		cin >> befehl;
 
@@ -62,6 +66,14 @@ int main(void) {
 			return 2;
 		}
 		cout << endl << endl;
+
+		if ((int)exit == 27)
+			break;
+	}
+	if (_kbhit) {
+		exit = _getch();
+		if ((int)exit == 27)
+			break;
 	} while (true);
 	
 	return 1;
