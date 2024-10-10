@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\christoph.schwaighof\\source\\repos\\HTL-Bulme-2AHEL\\2024-25_FSST\\FSST-10.10\\Pfeil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31DA4775-6AC3-4B66-B65A-AF996C6E5262}|FSST-10.10\\FSST-10.10.vcxproj|C:\\Users\\christoph.schwaighof\\source\\repos\\HTL-Bulme-2AHEL\\2024-25_FSST\\FSST-10.10\\Pfeil\\FSST-10.10\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{31DA4775-6AC3-4B66-B65A-AF996C6E5262}|FSST-10.10\\FSST-10.10.vcxproj|solutionrelative:FSST-10.10\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\christoph.schwaighof\\source\\repos\\HTL-Bulme-2AHEL\\2024-25_FSST\\FSST-10.10\\Pfeil\\FSST-10.10\\main.c",
+              "RelativeDocumentMoniker": "FSST-10.10\\main.c",
+              "ToolTip": "C:\\Users\\christoph.schwaighof\\source\\repos\\HTL-Bulme-2AHEL\\2024-25_FSST\\FSST-10.10\\Pfeil\\FSST-10.10\\main.c",
+              "RelativeToolTip": "FSST-10.10\\main.c",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAEEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-10T13:25:09.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
