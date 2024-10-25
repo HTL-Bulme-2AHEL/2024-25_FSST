@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\christoph.schwaighof\Desktop\Code\2024-25_FSST\FSST-18.10\FSST-18.10\FSST-18.10\main.cpp(25,15): error C2440: "return": "char []" kann nicht in "char" konvertiert werden
+C:\Users\christoph.schwaighof\Desktop\Code\2024-25_FSST\FSST-18.10\FSST-18.10\FSST-18.10\main.cpp(25,9): message : Es gibt keinen Kontext, in dem diese Konvertierung möglich ist

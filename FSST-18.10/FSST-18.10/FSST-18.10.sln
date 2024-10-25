@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FSST-18.10", "FSST-18.10\FSST-18.10.vcxproj", "{C20D7C40-A7AC-4429-965D-05D0BDF60E7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C20D7C40-A7AC-4429-965D-05D0BDF60E7C}.Debug|x64.ActiveCfg = Debug|x64
+		{C20D7C40-A7AC-4429-965D-05D0BDF60E7C}.Debug|x64.Build.0 = Debug|x64
+		{C20D7C40-A7AC-4429-965D-05D0BDF60E7C}.Debug|x86.ActiveCfg = Debug|Win32
+		{C20D7C40-A7AC-4429-965D-05D0BDF60E7C}.Debug|x86.Build.0 = Debug|Win32
+		{C20D7C40-A7AC-4429-965D-05D0BDF60E7C}.Release|x64.ActiveCfg = Release|x64
+		{C20D7C40-A7AC-4429-965D-05D0BDF60E7C}.Release|x64.Build.0 = Release|x64
+		{C20D7C40-A7AC-4429-965D-05D0BDF60E7C}.Release|x86.ActiveCfg = Release|Win32
+		{C20D7C40-A7AC-4429-965D-05D0BDF60E7C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F86C8B24-2D7C-44CB-8408-FA33AFCDEC65}
+	EndGlobalSection
+EndGlobal
